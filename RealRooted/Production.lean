@@ -1417,6 +1417,26 @@ import RealRooted.Applications.OEIS.A144438.IntervalPreserver.Weighted.Successor
 import RealRooted.Applications.OEIS.A144438.IntervalPreserver.Weighted.SuccessorResidues
 import RealRooted.Applications.OEIS.A144438.IntervalPreserver.WeightedResidueSum
 import RealRooted.Challenges.DecoEulerian
+import RealRooted.Challenges.FactorialCompression
+import RealRooted.FactorialCompression
+import RealRooted.FactorialCompression.Boundary
+import RealRooted.FactorialCompression.Compression
+import RealRooted.FactorialCompression.Definitions
+import RealRooted.FactorialCompression.DegreeChanging
+import RealRooted.FactorialCompression.Internal.Compression
+import RealRooted.FactorialCompression.Internal.Conventions
+import RealRooted.FactorialCompression.Internal.Definitions
+import RealRooted.FactorialCompression.Internal.KernelAlgebra
+import RealRooted.FactorialCompression.Internal.Kernels
+import RealRooted.FactorialCompression.Internal.Multiplier
+import RealRooted.FactorialCompression.Internal.RootSignRatios
+import RealRooted.FactorialCompression.Internal.RootSigns
+import RealRooted.FactorialCompression.Internal.RootTransfer
+import RealRooted.FactorialCompression.Internal.Scaling
+import RealRooted.FactorialCompression.KernelGeometry
+import RealRooted.FactorialCompression.KernelIdentities
+import RealRooted.FactorialCompression.Lifting
+import RealRooted.FactorialCompression.Theorems
 
 /-!
 # RealRooted production umbrella
